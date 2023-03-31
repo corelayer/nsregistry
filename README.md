@@ -1,0 +1,2 @@
+# nsregistry
+NetScaler Registry
